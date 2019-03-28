@@ -20,3 +20,5 @@ Section:
 Explanation: 
 Bug location: (URL)
 ```
+
+Both can be submitted to this repo in the "Issues" tab.
